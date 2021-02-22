@@ -1,0 +1,13 @@
+citHeader("To cite clusTransition in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title    = "MONIC: modeling and monitoring cluster transitions",
+  author   = "Myra Spiliopoulou and Eirini Ntoutsi and Yannis Theodoridis and Rene Schult",
+  journal  = "Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining",
+  year     = "2006",
+  pages    = "706-711",
+  doi      = "10.1145/1150402.1150491",
+  textVersion = paste("Spiliopoulou, M., Ntoutsi, I., Theodoridis, Y., Schult, R. MONIC: modeling and monitoring cluster transitions. In: Eliassi-Rad, T., Ungar, L. H., Craven, M., Gunopulos, D. (eds.) ACM SIGKDD 2006, pp. 706-711. ACM, Philadelphia (2006)"
+  )
+)
